@@ -487,11 +487,11 @@
 					};
 					DB6ADF3D1C23612000D77BF1 = {
 						CreatedOnToolsVersion = 7.2;
-						LastSwiftMigration = "";
+						LastSwiftMigration = 1020;
 					};
 					DB6ADF461C23612000D77BF1 = {
 						CreatedOnToolsVersion = 7.2;
-						LastSwiftMigration = "";
+						LastSwiftMigration = 1020;
 					};
 					DB6ADF591C23612900D77BF1 = {
 						CreatedOnToolsVersion = 7.2;
@@ -509,6 +509,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = DB6ADF151C23610B00D77BF1;
